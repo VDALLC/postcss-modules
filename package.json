@@ -18,7 +18,7 @@
     "url": "https://github.com/css-modules/postcss-modules.git"
   },
   "dependencies": {
-    "css-modules-loader-core": "^1.0.1",
+    "css-modules-loader-core": "git://github.com/VDALLC/css-modules-loader-core.git",
     "generic-names": "^1.0.2",
     "postcss": "^5.2.8",
     "string-hash": "^1.1.1"
